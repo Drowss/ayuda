@@ -1,0 +1,4 @@
+esneider giraldo;drow;2321;1000636472;esneider@elpoli.edu.co;libro;21;mascotas;no tengo;hola;hola;
+andres gomez;minc;23231;1000636215;andres@elpoli.edu.co;libro;si;mascotas;tobias;adios;adios;
+pedro sanchez;bildon;21213;1000636521;pedro@elpoli.edu.co;libro;aaaa;mascotas;margarita;por que;porque si;
+camilo triana;cami;nose;1923102384;camilito@elpoli.edu.co;no tengo;plantas;no me gustan;como estas;mal;
